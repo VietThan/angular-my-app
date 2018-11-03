@@ -1,5 +1,11 @@
 # MyApp
 
+## USER INITIALIZED
+
+Angular tutorial for something about heroes. Is this not working?
+
+## ANGULAR CLI INITIALIZE
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
 
 ## Development server
