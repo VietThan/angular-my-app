@@ -4,6 +4,10 @@
 
 Angular tutorial for something about heroes. Is this not working? It worked.
 
+git add -A
+git commit -m "write message"
+git push origin master
+
 ## ANGULAR CLI INITIALIZE
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
