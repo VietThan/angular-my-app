@@ -2,7 +2,7 @@
 
 ## USER INITIALIZED
 
-Angular tutorial for something about heroes. Is this not working?
+Angular tutorial for something about heroes. Is this not working? It worked.
 
 ## ANGULAR CLI INITIALIZE
 
